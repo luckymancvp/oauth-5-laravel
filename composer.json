@@ -17,6 +17,12 @@
             "role": "Developer"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/luckymancvp/PHPoAuthLib"
+        }
+    ],
     "require": {
         "php": ">=5.4",
         "lusitanian/oauth": "*"
