@@ -15,6 +15,11 @@
             "name": "oriceon",
             "email": "oriceon@gmail.com",
             "role": "Developer"
+        },
+        {
+            "name": "luckymancvp",
+            "email": "luckymancvp@gmail.com",
+            "role": "Supporter"
         }
     ],
     "repositories": [
